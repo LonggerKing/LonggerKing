@@ -21,4 +21,4 @@ Here are some ideas to get you started:
   <img alt="github-snake" src="https://raw.githubusercontent.com/LonggerKing/LonggerKing/output/github-snake-dark.svg" />
 </picture>
 
-<img src="https://raw.githubusercontent.com/你的用户名/你的用户名/main/github-metrics.svg" alt="Metrics" width="100%">
+<img src="https://raw.githubusercontent.com/LonggerKing/LonggerKing/main/github-metrics.svg" alt="Metrics" width="100%">
