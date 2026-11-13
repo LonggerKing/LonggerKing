@@ -131,16 +131,6 @@ fun_fact   : 我用 print() 调试，而且我对此毫不羞耻。
 ## 📊 GitHub 统计 &nbsp;·&nbsp; GitHub Stats
 
 <div align="center">
-
-
-<table>
-<tr>
-<td><img height="165" src="https://github-readme-stats.vercel.app/api?username=LonggerKing&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=DD6B20&icon_color=DD6B20&text_color=374151" /></td>
-<td><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LonggerKing&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=DD6B20&text_color=374151&langs_count=6" /></td>
-</tr>
-</table>
-
-
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=LonggerKing&theme=default&hide_border=true&background=ffffff&ring=DD6B20&fire=DD6B20&currStreakLabel=DD6B20&sideLabels=374151&currStreakNum=374151&dates=9CA3AF" />
 
 </div>
