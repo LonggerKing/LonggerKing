@@ -21,4 +21,4 @@ Here are some ideas to get you started:
   <img alt="github-snake" src="https://raw.githubusercontent.com/LonggerKing/LonggerKing/output/github-snake-dark.svg" />
 </picture>
 
-<img src="https://raw.githubusercontent.com/LonggerKing/LonggerKing/main/github-metrics.svg" alt="Metrics" width="100%">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
