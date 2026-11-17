@@ -9,9 +9,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=DD6B20&center=true&vCenter=true&width=620&lines=Hi+there+%F0%9F%91%8B+I'm+LonggerKing;Backend+Developer+%C2%B7+%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88;Always+learning%2C+always+building+%F0%9F%9A%80;Talk+is+cheap.+Show+me+the+code." alt="Typing SVG" />
-
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=DD6B20&center=true&vCenter=true&width=680&lines=Hi+there+%F0%9F%91%8B+I'm+LonggerKing;Backend+Developer+%C2%B7+AI+Agent+Builder;Building+a+Job-Hunting+Agent+with+LLM+%F0%9F%A4%96;Talk+is+cheap.+Show+me+the+code." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=DD6B20&center=true&vCenter=true&width=620&lines=Hi+there+%F0%9F%91%8B+I'm+LonggerKing" alt="Typing SVG" />
   </a>
 </div>
 
@@ -21,7 +19,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/%F0%9F%93%8D_Guilin_%C2%B7_China-6B7280?style=flat-square" />
   <img src="https://img.shields.io/badge/%F0%9F%92%BC_Open_to_Work-%E6%B1%82%E8%81%8C%E4%B8%AD-DD6B20?style=flat-square" />
-  <img src="https://img.shields.io/badge/%F0%9F%A4%96_Building-Job_Hunting_Agent-DD6B20?style=flat-square" />
   <img src="https://img.shields.io/badge/%E2%AD%90_Focus-Backend_%C3%97_AI_Agent-4B5563?style=flat-square" />
 </div>
 
