@@ -148,9 +148,3 @@ fun_fact    : 我用 print() 调试，而且我对此毫不羞耻。
 
 
 
-<!-- ==================== 底部波浪动画 ==================== -->
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=110&section=footer&reversal=true" alt="footer" />
-</div>
-
