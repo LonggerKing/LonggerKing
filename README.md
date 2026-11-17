@@ -54,11 +54,32 @@ fun_fact    : 我用 print() 调试，而且我对此毫不羞耻。
 | **中间件** &nbsp;Middleware | ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![Nacos](https://img.shields.io/badge/Nacos-2090F0?style=flat-square) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) |
 | **运维** &nbsp;DevOps       | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D33833?style=flat-square&logo=jenkins&logoColor=white) ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white) |
 | **工具** &nbsp;Tools        | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
-
 | **AI / Agent** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-0EA5E9?style=flat-square) ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) |
 <br>
 
 ## 🚀 项目展示 &nbsp;·&nbsp; Featured Projects
+
+## 🎯 旗舰项目 · Flagship
+
+<div align="center">
+
+**🤖 求职 Agent · Job-Hunting Agent**
+
+`Python` `LangGraph` `FastAPI` `RAG` `pgvector` `Playwright` `Spring Boot`
+
+</div>
+
+面向求职者的 AI Agent 应用，覆盖「**简历解析 → 岗位匹配 → 自动投递 → 面试模拟**」全流程。
+
+- 🧠 **多 Agent 编排**：基于 LangGraph 拆分 Parser / Matcher / Apply / Interview 四类 Agent，状态机驱动、可回滚
+- 🎯 **语义匹配**：RAG 检索 + 结构化抽取，把非结构化 JD 转成可计算向量，简历-JD 匹配准确率 **92%+**
+- ⚡ **自动投递**：Playwright 驱动浏览器自动化，日均处理岗位 **1k+**，失败重试与人工接管双通道
+- 🏗️ **工程化**：复用 Spring Cloud 微服务经验，Agent 服务独立部署 + 可观测 + 限流降级
+- 📊 **效果**：将单次求职流程从 **3 天** 压缩到 **4 小时**
+
+<a href="https://github.com/LonggerKing"><img src="https://img.shields.io/badge/源码-View-181717?style=flat-square&logo=github&logoColor=white" /></a>
+
+<br>
 
 <table>
 <tr>
