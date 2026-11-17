@@ -26,20 +26,12 @@
 
 ## 👨‍💻 关于我 &nbsp;·&nbsp; About Me
 
-> 一名专注于**分布式系统**与**高并发架构**的后端开发工程师。  
-> 喜欢把复杂的问题拆成简单的模块，也喜欢在深夜为一个锁的粒度纠结很久。
+- 💼 **职业方向**：Backend Developer & AI Agent Builder
+- 📍 **所在地**：Guilin, China
+- 📫 **联系邮箱**：2565744838@qq.com
+- 💡 **开发理念**：Keep it simple, make it scalable, ship it fast. (保持简单，确保可扩展，快速交付)
 
-```yaml
-name        : LonggerKing
-role        : Backend Developer / AI Agent Builder
-focus       : 高性能分布式系统 · 微服务架构 · AI Agent 应用
-now_building: 求职 Agent —— 用 LLM + RAG 重塑求职全流程
-philosophy  : Keep it simple, make it scalable, ship it fast.
-              AI 应用的下半场，拼的是工程化。
-fun_fact    : 我用 print() 调试，而且我对此毫不羞耻。
-```
-
-<br>
+---
 
 ## 🛠️ 技术栈 &nbsp;·&nbsp; Tech Stack
 
@@ -51,100 +43,7 @@ fun_fact    : 我用 print() 调试，而且我对此毫不羞耻。
 | **AI & Agent 开发** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-0EA5E9?style=flat-square) ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
 <br>
 
-## 🚀 项目展示 &nbsp;·&nbsp; Featured Projects
-
-## 🎯 旗舰项目 · Flagship
-
-<div align="center">
-
-**🤖 求职 Agent · Job-Hunting Agent**
-
-`Python` `LangGraph` `FastAPI` `RAG` `pgvector` `Playwright` `Spring Boot`
-
-</div>
-
-面向求职者的 AI Agent 应用，覆盖「**简历解析 → 岗位匹配 → 自动投递 → 面试模拟**」全流程。
-
-- 🧠 **多 Agent 编排**：基于 LangGraph 拆分 Parser / Matcher / Apply / Interview 四类 Agent，状态机驱动、可回滚
-- 🎯 **语义匹配**：RAG 检索 + 结构化抽取，把非结构化 JD 转成可计算向量，简历-JD 匹配准确率 **92%+**
-- ⚡ **自动投递**：Playwright 驱动浏览器自动化，日均处理岗位 **1k+**，失败重试与人工接管双通道
-- 🏗️ **工程化**：复用 Spring Cloud 微服务经验，Agent 服务独立部署 + 可观测 + 限流降级
-- 📊 **效果**：将单次求职流程从 **3 天** 压缩到 **4 小时**
-
-<a href="https://github.com/LonggerKing"><img src="https://img.shields.io/badge/源码-View-181717?style=flat-square&logo=github&logoColor=white" /></a>
-
-<br>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-
-**🛒 电商交易平台**  
-<sub>E-Commerce Platform</sub>
-
-`Java` `Spring Cloud` `Redis` `RabbitMQ`
-
-基于 Spring Cloud 微服务架构的 B2C 电商平台，涵盖用户中心、商品、订单、支付、库存等核心模块。
-
-- 支撑日均 **10w+** 订单量，Redis 缓存 + RabbitMQ 异步削峰
-- 分布式事务采用本地消息表 + 最终一致性方案
-
-<a href="https://github.com/LonggerKing"><img src="https://img.shields.io/badge/源码-View-181717?style=flat-square&logo=github&logoColor=white" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-**💬 即时通讯系统**  
-<sub>IM Chat System</sub>
-
-`Go` `Netty` `MongoDB` `Kafka`
-
-基于 Netty + WebSocket 的分布式 IM 系统，支持单聊、群聊、消息撤回与已读回执。
-
-- Kafka 削峰 + MongoDB 存储海量聊天记录
-- 支持**万人群聊**并发推送，消息可达 99.9%
-
-<a href="https://github.com/LonggerKing"><img src="https://img.shields.io/badge/源码-View-181717?style=flat-square&logo=github&logoColor=white" /></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**📈 实时数据监控平台**  
-<sub>Data Monitor Platform</sub>
-
-`Python` `Django` `Elasticsearch` `InfluxDB`
-
-企业级实时数据监控与告警平台，支持自定义指标采集、多维看板与智能告警规则。
-
-- 日处理日志量 **500w+**
-- ES + InfluxDB 双引擎统一日志检索与时序分析
-
-<a href="https://github.com/LonggerKing"><img src="https://img.shields.io/badge/源码-View-181717?style=flat-square&logo=github&logoColor=white" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-**🗄️ 统一 API 网关**  
-<sub>API Gateway</sub>
-
-`Java` `Spring Cloud Gateway` `Redis` `Nacos`
-
-自研轻量级 API 网关，统一鉴权、限流、熔断、灰度发布与请求日志。
-
-- 基于 Nacos 动态路由，Redis 令牌桶精准限流
-- 单机 QPS 达 **5w+**
-
-<a href="https://github.com/LonggerKing"><img src="https://img.shields.io/badge/源码-View-181717?style=flat-square&logo=github&logoColor=white" /></a>
-
-</td>
-</tr>
-</table>
-
-<br>
-
+---
 
 
 
