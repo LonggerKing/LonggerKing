@@ -33,12 +33,13 @@
 > 喜欢把复杂的问题拆成简单的模块，也喜欢在深夜为一个锁的粒度纠结很久。
 
 ```yaml
-name       : LonggerKing
-role       : Backend Developer / 后端开发工程师
-focus      : 高性能分布式系统 · 微服务架构 · 云原生
-philosophy : Keep it simple, make it scalable, ship it fast.
-             保持简单，确保可扩展，快速交付。
-fun_fact   : 我用 print() 调试，而且我对此毫不羞耻。
+name        : LonggerKing
+role        : Backend Developer / AI Agent Builder
+focus       : 高性能分布式系统 · 微服务架构 · AI Agent 应用
+now_building: 求职 Agent —— 用 LLM + RAG 重塑求职全流程
+philosophy  : Keep it simple, make it scalable, ship it fast.
+              AI 应用的下半场，拼的是工程化。
+fun_fact    : 我用 print() 调试，而且我对此毫不羞耻。
 ```
 
 <br>
@@ -54,6 +55,7 @@ fun_fact   : 我用 print() 调试，而且我对此毫不羞耻。
 | **运维** &nbsp;DevOps       | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D33833?style=flat-square&logo=jenkins&logoColor=white) ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white) |
 | **工具** &nbsp;Tools        | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
 
+| **AI / Agent** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-0EA5E9?style=flat-square) ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) |
 <br>
 
 ## 🚀 项目展示 &nbsp;·&nbsp; Featured Projects
