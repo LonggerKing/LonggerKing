@@ -1,7 +1,7 @@
 <!-- ==================== 顶部动画横幅 ==================== -->
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=200&section=header&text=LonggerKing&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer%20%C2%B7%20AI%20Agent%20Builder%20%C2%B7%20%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88&descAlignY=58&descSize=16&descAlign=50" alt="header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=200&section=header&text=LonggerKing&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88%20%C2%B7%20Agent%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88&descAlignY=58&descSize=16&descAlign=50" alt="header" />
 </div>
 
 
