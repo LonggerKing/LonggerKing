@@ -170,36 +170,6 @@ fun_fact    : 我用 print() 调试，而且我对此毫不羞耻。
 
 </div>
 
-<br>
-
-## 🌱 最近在做什么 &nbsp;·&nbsp; Currently
-
-- 🚀 用 Spring Cloud + Kubernetes 构建微服务，探索服务网格落地
-- 📚 学习 Rust，从系统级视角重新理解内存与并发
-- 🎯 深入分布式系统设计模式，重读《数据密集型应用系统设计》
-- 💡 探索 LLM 应用与 AI 工程化，做一点 Agent 相关的小实验
-
-<br>
-
-## 📫 联系方式 &nbsp;·&nbsp; Connect
-
-<div align="center">
-
-
-<a href="https://github.com/LonggerKing"><img src="https://img.shields.io/badge/GitHub-LonggerKing-181717?style=flat-square&logo=github&logoColor=white" /></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-your.email%40example.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://blog.csdn.net/longgerking"><img src="https://img.shields.io/badge/CSDN-博客-FC5531?style=flat-square" /></a>
-<a href="https://www.linkedin.com/in/longgerking"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-
-<br><br>
-
-👁️&nbsp;<img src="https://komarev.com/ghpvc/?username=LonggerKing&style=flat-square&color=DD6B20&label=PROFILE+VIEWS" alt="Profile views" />
-
-<br><br>
-
-<i>"Talk is cheap. Show me the code." —— 废话少说，放码过来。</i>
-
-</div>
 
 <!-- ==================== 底部波浪动画 ==================== -->
 
